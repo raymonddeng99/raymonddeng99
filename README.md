@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Raymond 👋
 
 <!--
 **raymonddeng99/raymonddeng99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨 I'm a full stack Software Engineer with BS degree in Computer Engineering
+
+- 🔭 My research focuses on systems, languages, and machine learning
+
+- ⚡: Outside of work, I enjoy climbing and cycling
+
+- 📫 How to reach me: `<last name><first name>99` at `gmail`
